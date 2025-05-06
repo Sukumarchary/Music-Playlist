@@ -1,0 +1,57 @@
+body{
+    text-align: center;
+    background-color: #283146;
+}
+h1{
+    color: #DBEDF3;
+    text-shadow: 3px 0 #DA0463;
+    font-family: "Arvo",cursive;
+    font-size: 5rem;
+}
+footer{
+    color: #DBEDF3;
+    font-size: 15px;
+}
+.DekhoDekho{
+    background-image: url(images/dekho.png) ;
+}
+ .Dilse{
+    background-image: url(images/dil.png);
+   
+    
+}
+.AmmayaSannaga{
+    background-image: url(images/kushi.png);
+  
+}
+.Bapu-gari-bommo{
+    background-image: url(images/bapu.png);
+   
+}
+.ninu-chudagane{
+    background-image: url(images/ninu.png);
+    
+}
+.set{
+    margin: 10% 0;
+}
+.pspk{
+    outline: none;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+    line-height: 18;
+    font-weight: 900;
+    color: yellow;
+    height: 220px;
+    width: 220px;
+    text-shadow: 1px 0 black;
+    font-size: 20px;
+    margin: 10px;
+    border: 10px solid #404B69;
+    width: 250px;
+    transition: transfrom 19s;
+}
+.pspk:hover{
+    transform: scale(1.08);
+}
